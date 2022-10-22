@@ -1,4 +1,4 @@
-<h1>ATM Simulator System</h1>
+<h1>ATM Simulator System Using Java</h1>
 <p>ATM Simuator System with opening banking account, transactions (deposite, withdraw), ministatement, pin change etc.<br><br>
 Process of using the Software:<br><br>
 1> Login Page will open once application is started.<br><br>
